@@ -1,0 +1,287 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Londons metamorphosis: or, A dialogue between London &amp; Amsterdam. Discoursing compendiously of the change of government, alteration of manners, and the escapes of sectaries. Amsterdam. In me both Jewes and Gentiles licens'd be, for to adore a severall deitie. London. Coblers preach here, as 'twere in Amsterdam, scorning, nè sutor ultra crepidam.</title>
+         </titleStmt>
+         <extent>Approx. 13KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A88502</idno><idno type="EEBO-CITATION">99862221</idno>
+  <idno type="VID">160386</idno>
+  <idno type="EEBO-PROQUEST">2240956797</idno>
+  
+            <idno type="STC">Wing L2941</idno>
+            <idno type="STC">Thomason E399_21</idno>
+            <idno type="STC">ESTC R201722</idno>
+            <idno type="PROQUEST">99862221</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99862221e"/>
+            <note>(EEBO-TCP ; phase 2, no. A88502)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 160386)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 63:E399[21])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Londons metamorphosis: or, A dialogue between London &amp; Amsterdam. Discoursing compendiously of the change of government, alteration of manners, and the escapes of sectaries. Amsterdam. In me both Jewes and Gentiles licens'd be, for to adore a severall deitie. London. Coblers preach here, as 'twere in Amsterdam, scorning, nè sutor ultra crepidam.</title>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>Printed in the yeere 1647.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "July 22".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Christianity and other religions --  Judaism --  Early works to 1800.</term>
+               <term type="topical_term">Religious tolerance --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-04 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-05 </date>
+            <label>Mona Logarbo </label>Sampled and proofread </change>
+         <change>
+            <date>2014-05 </date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:160386:1"/>
+            <p>Londons Metamorphosis: OR, A DIALOGUE BETWEEN London &amp; Amsterdam.</p>
+            <p>Discoursing compendiously of the change of Government, alteration of Manners, and the Escapes of Sectaries.</p>
+            <sp>
+               <speaker>Amsterdam.</speaker>
+               <q>
+                  <l>Jn me both Jewes and Gentiles licenc'd be,</l>
+                  <l>For to adore a severall Deitie.</l>
+               </q>
+            </sp>
+            <sp>
+               <speaker>London.</speaker>
+               <q>
+                  <l>Coblers preach here, as 'twere in <hi>Amsterdam,</hi>
+                  </l>
+                  <l>Scorning, <hi>Nè Sutor ultra crepidam.</hi>
+                  </l>
+               </q>
+            </sp>
+            <p>
+               <add>July .22.</add> Printed in the Yeere 1647.</p>
+         </div>
+      </front>
+      <body>
+         <div type="dialogue">
+            <pb facs="tcp:160386:2"/>
+            <pb n="1" facs="tcp:160386:2"/>
+            <head>Londons Metamorphosis: a Dialogue betweene London and Amsterdam.</head>
+            <sp>
+               <speaker>London.</speaker>
+               <p>SO may my basis be for ever fixed, if I wonder not <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t my owne Metamorphosis, <hi>in nova fert—ô Ovid</hi> thou hast sung the change of bodies, in whom shall thy soule abide, to record my wonderous alteration?</p>
+            </sp>
+            <sp>
+               <speaker>Amsterdam.</speaker>
+               <p>Thy loud acclamation hath reached my eares, faire London, that like a Bride, who when <hi>Sol</hi> peeps through the thin curtaines, viewing her in soft skirmish with her Lord, blushest for shame, and wondrest at thy un<g ref="char:EOLhyphen"/>routh change: thou wert desirous of novell truths, at which while thou hast too hastily catched, thou hast imbraced errour, and instead of <hi>Juno</hi> hast imbraced a cloud, thou hast asked a fish, but hast received a ser<g ref="char:EOLhyphen"/>pent.</p>
+            </sp>
+            <sp>
+               <speaker>London.</speaker>
+               <p>I wonder at my owne shame, and yet I confesse it my merit, had I thought instead of lightning my heavy pressures, such an unweildy load should have surcharg<g ref="char:EOLhyphen"/>ed me, I would never have bowed downe my back to beare, I couch like <hi>Issachar,</hi> betweeen two burthens, while a rabble of Sectaries get up and ride, and are at point to fall together by the eares while they vie, who who shall attaine the saddle.</p>
+            </sp>
+            <sp>
+               <speaker>Amsterdam.</speaker>
+               <p>
+                  <hi>Fata volunt,</hi> thou reelest with thy owne weight, thou
+<pb n="2" facs="tcp:160386:3"/>includest a Kingdome within thy walls, but divided, thou ambitiously aspirest, hiding thy head in the clouds, yet like Grantham-steeple thou standest awry: doest thou conjecture thou canst hardbour so many men, of so various religions, and yet not suffer an eclipse of thy glory, and a diminution of thy strength.</p>
+            </sp>
+            <sp>
+               <speaker>London.</speaker>
+               <p>Be thou my president; are not within thee a mixt mul<g ref="char:EOLhyphen"/>titude of severall nations, worshippers of the true God, of <hi>Mahomet,</hi> and of no God; and these occasion no gar<g ref="char:EOLhyphen"/>bo<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>les in thee, no Petitions are put up, the contents whereof are dangerous and destructive to the <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ntago<g ref="char:EOLhyphen"/>nists; they tosse not each others limbs on the swords of their tongues, nor damne each other with invective oratorie, even to the profundity of abysse.</p>
+            </sp>
+            <sp>
+               <speaker>Amsterdam.</speaker>
+               <p>No sister: for in me inhabit no Presbyterians, capa<g ref="char:EOLhyphen"/>ble of calumnies, all my inhabitants are the supporters of Anarchie, Independents.</p>
+            </sp>
+            <sp>
+               <speaker>London.</speaker>
+               <p>But thou hast order in the midst of disorder; I am dai<g ref="char:EOLhyphen"/>ly almost ready to be overturned; every man here hath this conceit of himselfe, that he is fitter to beare rule then those in Authority: so the silly Furbush thought it self fit to be a King; and the Thistle would have the Cedars daughter to marrie his sonne.</p>
+            </sp>
+            <sp>
+               <speaker>Amsterdam.</speaker>
+               <p>The Hebrew Writers note, that the Divells name <hi>Belzebub</hi> signifieth a great flesh-flie, or a master-fl<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e, flap him away never so often, he will still flie thither again; therefore S. <hi>Iames</hi> counselleth to resist him with vigour; so while thy Governours play at pit pat, and think to si<g ref="char:EOLhyphen"/>lence the tongues of disturbers with words, and to bind
+<pb n="3" facs="tcp:160386:3"/>their hands with threds, they leap to and fro, but a<g ref="char:EOLhyphen"/>gaine returne to their first station, 'tis no more then if you should cause a Fast for the removall of Errours, Heresies, and Blasphemies, and yet on that very day suffer <hi>Gorton</hi> to broach errours, <hi>Lambe</hi> to confirm here<g ref="char:EOLhyphen"/>ticks, and <hi>Green</hi> to utter blasphemy.</p>
+            </sp>
+            <sp>
+               <speaker>London.</speaker>
+               <p>I lately beheld my selfe in <hi>Archimedes</hi> glasse, and to my wonder by a reflection, I saw the pallace where roy<g ref="char:EOLhyphen"/>all <hi>Charles</hi> was wont to reside, strangely Metamorphos'd to an Inn, I tooke it for some Hospitall, for it was full of beds and basons, where were entertained a great company of Clerks and Lay-men, who promiscuously strove who should slumber in that bed was nearest the Privie Chamber: I saw a number of Courtiers feeding on as poor ortes, as they were wont to bestow on their Beagles, while some Citizens fleered, as if their gums had been new washed with vinegar.</p>
+            </sp>
+            <sp>
+               <speaker>Amsterdam.</speaker>
+               <lg>
+                  <l>Now that with madnesse all men are possest,</l>
+                  <l>Vile <hi>Ate</hi> having rob'd the world of rest,</l>
+                  <l>Sing we as madly sister, let our rimes,</l>
+                  <l>Be as irregular as are the times.</l>
+               </lg>
+            </sp>
+            <sp>
+               <speaker>Lond.</speaker>
+               <lg>
+                  <l>Then thus Ile chaunt my owne decay of blisse,</l>
+                  <l>Let all admire my Metamorphosis:</l>
+                  <l>I was the pride of Europe, once the glory</l>
+                  <l>Of all the earth; but now my tragick story</l>
+                  <l>Affoords as dire occasion to relate</l>
+                  <l>As when great Virgill sung faire Latiums fate,</l>
+                  <l>The Bat, the Howlet and the Whistler shrill</l>
+                  <l>With harsh unpleasant tunes, mens eares doe fill,</l>
+                  <l>Which they with all applause accept as well</l>
+                  <l>As if they heard the voice of <hi>Philomell.</hi>
+                  </l>
+               </lg>
+            </sp>
+            <sp>
+               <speaker>Amst.</speaker>
+               <lg>
+                  <l>I will with thee condole thy losse of good,</l>
+                  <l>Yet so, that Ile by few bee understood,</l>
+                  <pb n="4" facs="tcp:160386:4"/>
+                  <l> It is delightfull to the eare, 'tis sweet</l>
+                  <l>When a whole consort in one tune do meet;</l>
+                  <l>When first I saw thy eagles tallans pa'd,</l>
+                  <l>And the stout Mastive of the sheep affeard,</l>
+                  <l>When I beheld one Treasure-house to hold</l>
+                  <l>So many mens estates, when I was told</l>
+                  <l>
+                     <hi>Juno's</hi> faire birds were pull'd for ravens, who</l>
+                  <l>Decking themselves, seem'd faire unto the view,</l>
+                  <l>I said, my sister London now I see,</l>
+                  <l>Begins to feele confusion like to mee.</l>
+               </lg>
+            </sp>
+            <sp>
+               <speaker>London.</speaker>
+               <lg>
+                  <l>Faire ranks of Cedars are eradicated,</l>
+                  <l>And shrubs and bushes in their place instated,</l>
+                  <l>Who sprout so high, and spread their branches so,</l>
+                  <l>They snatch a fleece from all that by them go;</l>
+                  <l>Lions are yoak'd, and forc'd to draw the plow,</l>
+                  <l>While Dogs are coach'd, and Garlands deck their brow;</l>
+                  <l>And I that wont be president to all,</l>
+                  <l>In Ills am onely, now their principall.</l>
+               </lg>
+            </sp>
+            <sp>
+               <speaker>Amsterdam.</speaker>
+               <p>It rejoyceth mee greatly, faire sister, that thee and I are the beast and his image, and differ no more then the two sisters <hi>Aholiah</hi> and <hi>Ahoblibah:</hi> but I am thy elder in evill, thou art but a young sinner, if compar'd with me, thy alteration hath been but since <hi>Crispe</hi> abrogated the Law, avowing the filthy errour of the Antinomi<g ref="char:EOLhyphen"/>ans, that the Law or Commandements of God, given on Mount Sinai, have no more to doe with a believer, then the Lawes of Spaine have to doe with an English<g ref="char:EOLhyphen"/>man abiding in his owne Countrey: I smile to thinke how a brother of that Sect, hearkened to the Tenent of the deluded Doctor, and accounting it not so much as veniall to breake the seventh Commandement, mingled
+<pb n="5" facs="tcp:160386:4"/>limbs with a sister of the Fraternity, whose husband was plow<g ref="char:EOLhyphen"/>ing the ocean while his faire wife followed her occupation, and at his returne presented him with a young Antinomian, he not well pleased with the object, in requitall of her love, sold up all his goods and housholdstuffe, and put to Sea againe, the sister rejoycing hereat, caused a bill to be put up, mentioning thanks to be given to God, that had by his providence, separated her from an unbeliever; the sa<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e couple after went into Hol<g ref="char:EOLhyphen"/>land, where it seemes the spirit forsooke them, for there shee became the Mistresse of a Brothell-house, and hee a doorekeeper, &amp;c.</p>
+            </sp>
+            <sp>
+               <speaker>London.</speaker>
+               <p>My walls have trembled ever since that wandring Levite di<g ref="char:EOLhyphen"/>vulged, that the Creed must be purged, and the Lords Prayer not used, the same Gadite was afterwards taken <hi>rem in re,</hi> with another mans wife, of which being convicted and ashamed, he left London, and with her sailed to Newcastle, where being descried by his large eare, emphaticall garbe, with his presump<g ref="char:EOLhyphen"/>tuous caterwauling in private corners, he and his Doxie were laid hold on at the command of the Mayor, and whipt out of the town.</p>
+            </sp>
+            <sp>
+               <speaker>Amsterdam.</speaker>
+               <p>But say faire sister, do the Anabaptists still rebaptize, and dip in their new Jordan? O fine sport, when Mrs. <hi>Ellis</hi> the Spin<g ref="char:EOLhyphen"/>ster, and Mr. <hi>Cockeram</hi> the Taylor were let down together in one bag, and therefore ever after tumbled in one bed. Do the Familists still meet together in an upper chamber, and there so<g ref="char:EOLhyphen"/>lace themselves as the Spirit inspires them: of those were they that were taken in a barne at Newington, whilest an honest Farmer lay perdue to heare their complementing; when a si<g ref="char:EOLhyphen"/>ster somthing squeamish, and tired with the fulsome sport, wish<g ref="char:EOLhyphen"/>ed some respiration, her conscience wounding her, with the horror of her crime, a zealous Brother incouraged her to pro<g ref="char:EOLhyphen"/>strate her selfe boldly, saying, sister, I hope you are not igno<g ref="char:EOLhyphen"/>rant, that God sees no sin in his servants; but if he do, let's repent, and then with safe conscience we may to't again.</p>
+            </sp>
+            <sp>
+               <speaker>London.</speaker>
+               <p>Most certain it is, they keep their old wont, and are as pre<g ref="char:EOLhyphen"/>sumptuously sinfull as ever.</p>
+            </sp>
+            <sp>
+               <pb n="6" facs="tcp:160386:5"/>
+               <speaker>Amsterdam.</speaker>
+               <p>No more now then need my wide gates be unhinged, to let in thronging Sectaries, who when expulsed from thee, tooke me for their city of refuge: now in thee they may abide, and there revile, backbite and blaspheme <hi>Cum Privilegio, Hagio Mastix,</hi> divine light, Christ upon his Throne, godly party may scourge the Saints uncontroulled, goe about with his light pla<g ref="char:EOLhyphen"/>ced in a darke lanthorne, and f<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nd no more honest men in Lon<g ref="char:EOLhyphen"/>don, then <hi>Diogenes</hi> did in <hi>Athens,</hi> may sit in Christs stead and damne as many thousands as he converted, may cause a sepa<g ref="char:EOLhyphen"/>ration, and call the Authours of confusion, and broachers of heresies, a godly party.</p>
+            </sp>
+            <sp>
+               <speaker>London.</speaker>
+               <p>They may my sister, the Physitians obsequiously observe mans climactericall yeare, which they will have to hap<g ref="char:EOLhyphen"/>pen according to the time of life, but my climactericall yeares are united all in one, I faint and am crazed for want of a purge, which no Galenite hath ability to administer, it must be a Para<g ref="char:EOLhyphen"/>celsian that can constraine me to evacuate, I must vomit up<g ref="char:EOLhyphen"/>wards and exonerate downwards, neither am I diseased alone, my breath hath infected the whole Kingdome with an epide<g ref="char:EOLhyphen"/>mick heat.</p>
+            </sp>
+            <sp>
+               <speaker>Amsterdam.</speaker>
+               <p>We two are like Judah and Samaria, thou retainest still som<g ref="char:EOLhyphen"/>thing of God, some truths thou mixedst with abhominable er<g ref="char:EOLhyphen"/>rours, I am wholly estranged from God, and worship him re<g ref="char:EOLhyphen"/>presented in golden calves, Judah was a City after Samaria's ruine, so mayest thou have a name when I am an heap of stones, yet certainely if thou doe not repent, expulse and erect, for<g ref="char:EOLhyphen"/>sake thy errours, extirpate heresies, and set up Gods true Reli<g ref="char:EOLhyphen"/>gion, I shall but be thy president, and it shall be said of thee, e<g ref="char:EOLhyphen"/>ven as Babilon.</p>
+               <lg>
+                  <l>Amazed and amated much I am,</l>
+                  <l>To see this Kingdome turn'd to Amsterdam;</l>
+                  <l>Six years ago we had of Sects fourscore,</l>
+                  <l>Which are increast now to one hundred more:</l>
+                  <l>A book that's call'd the <hi>Gangrene,</hi> printed late,</l>
+                  <l>Their Authours and opinions doth repeat,</l>
+                  <l>Nine score opinions that book sheweth clear,</l>
+                  <l>Lord, what a harvest hath the Devill made here!</l>
+                  <l>These every one can Scripture wrest and wring,</l>
+                  <l>Most of them contrary to God and King.</l>
+               </lg>
+            </sp>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
